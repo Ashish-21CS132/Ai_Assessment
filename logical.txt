@@ -1,0 +1,361 @@
+Q1. Given a Series 2, 5, 12.5, ?, 78.125, 195.3125
+Find what number would come in place of the question mark(?).
+a) 31.25
+b) 40.25
+c) 32.50
+d)  21.00
+Answer :  (a) 31.25
+
+Q2. Given a Series -10, -8, 6, 40, 102, ?
+ Find what number would come in place of the question mark(?).
+a) 105
+b) 200
+c) 216
+d)  129
+Answer : (b) 200
+
+Q3: A broker charges a commission of 5% on all orders up to Rs.10,000 and 4% on all orders exceeding Rs. 10,000. He remits Rs. 31,100 to his client after deducting his commission. Find the order amount. 
+a) 31908
+b) 32500
+c) 30070
+d) 34600
+Answer : (b) 32500
+
+Q4: 25 % of a number is 8 less than one-third of that number. Find the number.
+a) 92
+b) 85
+c) 96
+d) 90
+Answer : (c) 96
+
+Q5. Two trains 140 m and 160 m long are moving in the same direction on parallel tracks with speeds of 40 km/hr and 50 km/hr respectively. How much time would the faster train require to overtake the slower train? 
+a) 108s
+b) 210s
+c) 165s 
+d) 110s
+Answer : (a) 108s
+
+Q6. A man standing near a railway track observes that a train passes him in 80 seconds but to pass by a 180 m long bridge, the same train takes 200 seconds. Find the speed of the train. 
+a) 2 m/s
+b) 3 m/s
+c) 1 m/s
+d) 1.5 m/s
+Answer : (d) 1.5 m/s
+
+Q7: A boatman can row a boat upstream at 14 km/hr and downstream at 20 km/hr. Find the speed of the boat in still water.
+a) 17 km/h
+b) 15 km/h
+c) 18 km/h
+d) 20 km/h
+Answer : (a) 17 km/h
+
+Q8. A boatman can row a boat at the speed of 5 km/hr upstream and 15 km/hr downstream. Find the speed of the stream.
+a) 5 km/h
+b) 6 km/h
+c) 8 km/h
+d) 10 km/h
+Answer : (a) 5 km/h
+
+Q9. A is the father of C and D is the son of B. E is the brother of A if C is the sister of D, how is B related to E?
+a) sister in law 
+b) brother in law
+c) brother
+d) siser
+Answer : (a) sister in law
+
+Q10. Rohan said to Rashmi, ‘ your mother’s husband’s sister is my aunt.’ How is Rashmi related to Rohan?
+a) Daugter
+b) sister
+c) mother
+d) grand daughter
+Answer : (b) sister
+
+Q11. Find the number which will come in the place of the question mark in the given series 4, 18, ?, 100, 180, 294, 448. 
+a) 62
+b) 86
+c) 38
+d)  48
+Answer : (d)  48
+
+Q12. Find the number which will come in the place of the question mark in the given series 14, 25, 47, 91, 179, ?.
+a) 255
+b) 321
+c) 355
+d) 211
+Answer : (c) 355 
+
+Q13. A is the father of C and D is the son of B. E is the brother of A if C is the sister of D, how is B related to E?
+a) sister in law 
+b) brother in law
+c) brother
+d) siser
+Answer : (a) sister in law
+
+Q14. Rohan said to Rashmi, ‘ your mother’s husband’s sister is my aunt.’ How is Rashmi related to Rohan?
+a) Daugter
+b) sister
+c) mother
+d) grand daughter
+Answer : (b) sister
+
+Q15. A policeman sighted a robber from a distance of 300 m. The robber also noticed the policeman and started running at 8 km/hr. The policeman also started running after him at the speed of 10 km/hr. Find the distance that the robber would run before being caught. 
+a) 1.3 km
+b) 1.2 km
+c) 1.5 km
+d) 2 km
+Answer : (b) 1.2 km
+
+Q16. A 100 m long train moving at a speed of 60 km/hr passes a man standing on the pavement near a railway track. Find the time taken by the train to pass the man. 
+a) 6s
+b) 10s
+c) 3s
+d) 5s
+Answer : (a) 6s
+
+Q17. Find the number which would come in place of question marks 3, 4, 7, 8, 11, 12,  ?, ?.
+a) 13, 14
+b) 18, 20
+c) 15, 16
+d)  19, 20
+Answer : (c) 15, 16
+
+Q18. Find the number which is wrong in the given series 2, 3, 12, 37, 86, 166, 288.
+a) 2
+b) 12
+c) 37
+d)  166
+Answer : (d) 166
+
+Q19. Rohan said to Rashmi, ‘ your mother’s husband’s sister is my aunt.’ How is Rashmi related to Rohan?
+a) Daugter
+b) sister
+c) mother
+d) grand daughter
+Answer : (b) sister
+
+Q20. K is the brother of X, Z is the son of x, P is the daughter of K is married to N, G and X are sisters to one another. Then how is G related to Z?
+a) aunt
+b) sister
+c) mother
+d) mother in law
+Answer : (a) aunt
+
+Q21. Find the number which would come in place of question mark  6, 11, 18, 27, ?.
+a) 33
+b) 40
+c) 38
+d)  81
+Answer :  (c)  38
+
+Q22. Find the number which would come in place of question mark  3, 4.5, 9, ?
+a) 22.5
+b) 18
+c) 13.5
+d) 27
+Answer :  (a)  22.5 
+
+Q23. Find the number which would come in place of question mark  1, 7, 37, 187, 937,  ?.
+a) 4687
+b) 1823
+c) 5687
+d)  5000
+Answer : (a)  4687  
+
+Q24. Find the number which would come in place of question mark  1, 5, 19, 81,  ?
+a) 405
+b) 411
+c) 400
+d)  395
+Answer : (b) 411
+
+Q25. Two trains 140 m and 160 m long are moving in the same direction on parallel tracks with speeds of 40 km/hr and 50 km/hr respectively. How much time would the faster train require to overtake the slower train? 
+a) 108s
+b) 210s
+c) 165s 
+d) 110s
+Answer : (a) 108s
+
+Q26. A man standing near a railway track observes that a train passes him in 80 seconds but to pass by a 180 m long bridge, the same train takes 200 seconds. Find the speed of the train. 
+a) 2 m/s
+b) 3 m/s
+c) 1 m/s
+d) 1.5 m/s
+Answer : (d) 1.5 m/s
+
+Q27. K is the brother of X, Z is the son of x, P is the daughter of K is married to N, G and X are sisters to one another. Then how is G related to Z?
+a) aunt
+b) sister
+c) mother
+d) mother in law
+Answer : (a) aunt
+
+Q28. B is D’s mother and C is D’s brother. H is E’s daughter, while D is the E’s wife. What is the relation between E and C?
+a) father in law
+b) brother in law
+c) paternal uncle
+d) brother
+Answer : (b) brother in law
+
+Q29. Two trains 140 m and 160 m long are moving towards each other on parallel tracks with speeds of 40 km/hr and 50 km/hr respectively. How much time would they take to pass each other completely? 
+a) 10s
+b) 12s
+c) 18s
+d) 15s
+Answer : (b) 12s
+
+Q30: A boatman can row a boat upstream at 14 km/hr and downstream at 20 km/hr. Find the speed of the boat in still water.
+a) 17 km/h
+b) 15 km/h
+c) 18 km/h
+d) 20 km/h
+Answer : (a) 17 km/h
+
+Q31: A broker charges a commission of 5% on all orders up to Rs.10,000 and 4% on all orders exceeding Rs. 10,000. He remits Rs. 31,100 to his client after deducting his commission. Find the order amount. 
+a) 31908
+b) 32500
+c) 30070
+d) 34600
+Answer : (b) 32500
+
+Q32: 25 % of a number is 8 less than one-third of that number. Find the number.
+a) 92
+b) 85
+c) 96
+d) 90
+Answer : (c) 96
+
+Q33. A boatman can row a boat at the speed of 5 km/hr upstream and 15 km/hr downstream. Find the speed of the stream.
+a) 5 km/h
+b) 6 km/h
+c) 8 km/h
+d) 10 km/h
+Answer : (a) 5 km/h
+
+Q34. A racer can row a boat 30 km upstream and 44 km downstream in 10 hours. Also, he can row 40 km upstream and 55 km downstream in 13 hours. Find the speed of the boat in still water and the speed of the stream. 
+a) 5 km/h
+b) 6 km/h
+c) 8 km/h
+d) 10 km/h
+Answer : (c) 8 km/h
+
+Q35. Rohan said to Rashmi, ‘ your mother’s husband’s sister is my aunt.’ How is Rashmi related to Rohan?
+a) Daugter
+b) sister
+c) mother
+d) grand daughter
+Answer : (b) sister
+
+Q36. K is the brother of X, Z is the son of x, P is the daughter of K is married to N, G and X are sisters to one another. Then how is G related to Z?
+a) aunt
+b) sister
+c) mother
+d) mother in law
+Answer : (a) aunt
+
+Q37. A man decided to cover a distance of 6 km in 84 minutes. He decided to cover two-thirds of the distance at 4 km/hr and the remaining at some different speed. Find the speed after the two-third distance has been covered. 
+a) 5 km/h
+b) 6 km/h
+c) 8 km/h
+d) 10 km/h
+Answer : (a) 5 km/h
+
+Q38. Two stations B and M are 465 km distant. A train starts from B towards M at 10 AM with a speed of 65 km/hr. Another train leaves from M towards B at 11 AM at a speed of 35 km/hr. Find the time when both trains meet. 
+a) 1 PM
+b) 5 PM
+c) 2 PM
+d) 3 PM
+Answer : (d) 3 PM
+
+Q39. A policeman sighted a robber from a distance of 300 m. The robber also noticed the policeman and started running at 8 km/hr. The policeman also started running after him at the speed of 10 km/hr. Find the distance that the robber would run before being caught. 
+a) 1.3 km
+b) 1.2 km
+c) 1.5 km
+d) 2 km
+Answer : (b) 1.2 km
+
+Q40. A 100 m long train moving at a speed of 60 km/hr passes a man standing on the pavement near a railway track. Find the time taken by the train to pass the man. 
+a) 6s
+b) 10s
+c) 3s
+d) 5s
+Answer : (a) 6s
+
+Q41. A is the father of C and D is the son of B. E is the brother of A if C is the sister of D, how is B related to E?
+a) sister in law 
+b) brother in law
+c) brother
+d) siser
+Answer : (a) sister in law
+
+Q42. Rohan said to Rashmi, ‘ your mother’s husband’s sister is my aunt.’ How is Rashmi related to Rohan?
+a) Daugter
+b) sister
+c) mother
+d) grand daughter
+Answer : (b) sister
+
+Q43. K is the brother of X, Z is the son of x, P is the daughter of K is married to N, G and X are sisters to one another. Then how is G related to Z?
+a) aunt
+b) sister
+c) mother
+d) mother in law
+Answer : (a) aunt
+
+Q44. B is D’s mother and C is D’s brother. H is E’s daughter, while D is the E’s wife. What is the relation between E and C?
+a) father in law
+b) brother in law
+c) paternal uncle
+d) brother
+Answer : (b) brother in law
+
+Q45. A is B’s wife and c is A’s sister. D is father of C, while E is D’s son. What is the relation of E to B?
+a) brother
+b) father
+c) cousin
+d) brother in law
+Answer : (d) brother in law
+
+Q46: If the numerator of a fraction is decreased by 15% and its denominator is diminished by 10%, the value of the fraction is 2 / 9. Find the original fraction. 
+a) 4/17
+b) 3/17
+c) 2/17
+d) 5/17
+Answer : (a) 4/17
+
+Q47: The population of a town is 1,60,000 in the current year. If it increases at the rate of 5% per annum, what will be the population 3 years from now? 
+a) 456567
+b) 195788
+c) 658699
+d) 185220
+Answer : (d) 185220
+
+Q48: A broker charges a commission of 5% on all orders up to Rs.10,000 and 4% on all orders exceeding Rs. 10,000. He remits Rs. 31,100 to his client after deducting his commission. Find the order amount. 
+a) 31908
+b) 32500
+c) 30070
+d) 34600
+Answer : (b) 32500
+
+Q49: 25 % of a number is 8 less than one-third of that number. Find the number.
+a) 92
+b) 85
+c) 96
+d) 90
+Answer : (c) 96
+
+Q50. A 100 m long train moving at a speed of 60 km/hr passes a man standing on the pavement near a railway track. Find the time taken by the train to pass the man. 
+a) 6s
+b) 10s
+c) 3s
+d) 5s
+Answer : (a) 6s
+
+Q51. A is the father of C and D is the son of B. E is the brother of A if C is the sister of D, how is B related to E?
+a) sister in law 
+b) brother in law
+c) brother
+d) siser
+Answer : (a) sister in law
+
+
+
