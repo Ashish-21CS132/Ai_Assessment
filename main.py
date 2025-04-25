@@ -87,7 +87,7 @@ def extract_info_from_pdf_new(pdf_file):
     )
 
     # Set up LLMChain for the extraction
-    extraction_chain = LLMChain(llm=openai_llm, prompt=prompt_template)
+    extraction_chain = LLMChain(llm=openai_llm, prompt=prompt_template, verbose=True)
 
     # Get the extracted information by running the chain
     extracted_info = extraction_chain.run({"resume_text": resume_text})
@@ -204,7 +204,7 @@ def generate_questions(skills_with_scale, experience, projects):
 )
 
     # Create the LLM chain
-    chain = LLMChain(llm=llm, prompt=prompt_template)
+    chain = LLMChain(llm=llm, prompt=prompt_template, verbose=True)
 
     # Generate the response
     try:
