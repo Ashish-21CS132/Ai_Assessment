@@ -7,7 +7,7 @@ from langchain.prompts import PromptTemplate
 from langchain.chains import LLMChain
 from langchain_core.pydantic_v1 import BaseModel, Field
 from typing import List
-from langchain.output_parsers import PydanticOutputParser
+from langchain_core.output_parsers import PydanticOutputParser
 from langchain_core.caches import InMemoryCache
 from langchain_openai import ChatOpenAI
 from langchain_core.globals import set_llm_cache
